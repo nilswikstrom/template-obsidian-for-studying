@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": false,
+  "showRibbon": true,
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "useTab": true,
+  "tabSize": 2,
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "promptDelete": false
+}

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "98753340fded76d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc5a6ae40f0b7645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9060cef22b090be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Course Template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Course Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2bc86a2a9ac1a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "590be78e00714fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2478f43e52459301",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa818bfbd8b03887",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "286150cfaaaa18db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a92898fcc22f5741",
+    "type": "split",
+    "children": [
+      {
+        "id": "deb03d898841d2be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1058cc0304f6039b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Course Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Course Template"
+            }
+          },
+          {
+            "id": "2808160b46e58e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Course Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Course Template"
+            }
+          },
+          {
+            "id": "1266d537da0623a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4aae5c307d30ab83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Course Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Course Template"
+            }
+          },
+          {
+            "id": "af5a363d2f33e66b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1520a787a86cbeef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "9060cef22b090be9",
+  "lastOpenFiles": [
+    "Uni Tips.md",
+    "Math 100.md",
+    "Semester 6",
+    "Semester 5",
+    "Semester 4",
+    "Semester 3",
+    "Semester 2",
+    "Semester 1",
+    "My University Note.md",
+    "Uni Clubs.md",
+    "Templates/Course Template.md",
+    "Uni Courses.md",
+    "Uni Resources.md",
+    "Uni Events & Opportunities.md",
+    "Uni Study Spots.md",
+    "Welcome.md",
+    "Templates"
+  ]
+}
